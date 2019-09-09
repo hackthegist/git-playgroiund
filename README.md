@@ -57,3 +57,13 @@
 1. fast-forward merge
 2. auto merge (without conflict)
 3. merge read conflict
+
+## Conflict 해결 방법
+
+### Conflict 발생 조건
+
+1. 동일 파일 건드리기 
+   - '특히 동일 라인의 내용이 다를 경우
+
+
+git diff 
