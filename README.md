@@ -58,6 +58,18 @@
 2. auto merge (without conflict)
 3. merge read conflict
 
+<<<<<<< HEAD
 ## conflict
 이것을 무엇이냐 
 무엇이 이렇게 시끄럽냐
+=======
+## Conflict 해결 방법
+
+### Conflict 발생 조건
+
+1. 동일 파일 건드리기 
+   - '특히 동일 라인의 내용이 다를 경우
+
+
+git diff 
+>>>>>>> develop
