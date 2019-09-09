@@ -25,6 +25,7 @@
 >
 > 동사 + 목적어, 현재형으로 
 >
+>ex) `git commit -m "resolve merge conflict"`
 
 ### 시간대 이동
 
@@ -58,11 +59,6 @@
 2. auto merge (without conflict)
 3. merge read conflict
 
-<<<<<<< HEAD
-## conflict
-이것을 무엇이냐 
-무엇이 이렇게 시끄럽냐
-=======
 ## Conflict 해결 방법
 
 ### Conflict 발생 조건
@@ -72,4 +68,3 @@
 
 
 git diff 
->>>>>>> develop
