@@ -57,3 +57,7 @@
 1. fast-forward merge
 2. auto merge (without conflict)
 3. merge read conflict
+
+## conflict
+이것을 무엇이냐 
+무엇이 이렇게 시끄럽냐
